@@ -1,0 +1,5 @@
+{
+  "name": "JobRight AI",
+  "description": "An AI-powered job search assistant and career copilot featuring intelligent job matching, resume analysis, and deep career reasoning using Gemini models.",
+  "requestFramePermissions": []
+}
